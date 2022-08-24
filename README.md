@@ -54,5 +54,5 @@ Los resultados de la ejecución se pueden visualizar en la barra ubicada en la p
 	- 
 ## Créditos
  
- - [LinkedIn](www.linkedin.com/in/raúl-vargas-nava-aa646925)(http://www.linkedin.com/in/ra%C3%BAl-vargas-nava-aa646925)
+ - [LinkedIn](www.linkedin.com/in/raúl-vargas-nava-aa646925)
 
